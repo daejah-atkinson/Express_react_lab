@@ -1,0 +1,14 @@
+[
+    {
+      "name": "2048 Browser Game",
+      "live": "https://two048-browser-game.onrender.com/",
+      "git": "https://github.com/daejah-atkinson/2048-Browser-Game",
+      "image": "https://i.imgur.com/xbSeKvS.png"
+    },
+    {
+      "name": "IMDb Movies",
+      "live": "https://imdb-project2.herokuapp.com/movies",
+      "git": "https://github.com/daejah-atkinson/IMDb-Project-2",
+      "image": "https://i.imgur.com/GdB5oqQ.png"
+    }
+  ]
